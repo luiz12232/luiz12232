@@ -1,4 +1,9 @@
-## Hi there 👋
+## olá eu sou Luiz Otavio 
+curso de tecnologia Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos👋
+![Uploading yurialberto.gif…]()
+
 
 <!--
 **luiz12232/luiz12232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
