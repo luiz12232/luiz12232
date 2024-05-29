@@ -2,7 +2,7 @@
 curso de tecnologia Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos👋
-![Uploading yurialberto.gif…]()
+![image](https://github.com/luiz12232/luiz12232/assets/171141285/41882db6-2d22-42af-89a6-fb909b165796)
 
 
 <!--
